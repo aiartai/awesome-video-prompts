@@ -36,7 +36,7 @@ Style: hyper-realistic cinematic, IMAX, anamorphic lens, shallow depth of field,
 
 </details>
 
-<img src=”https://img.youtube.com/vi/37zo86w3RCo/maxresdefault.jpg” width=”600” alt=”Live-Action Naruto: Sakura in the Destroyed Hidden Leaf Village”>
+<img src=”https://img.youtube.com/vi/37zo86w3RCo/hqdefault.jpg” width=”600” alt=”Live-Action Naruto: Sakura in the Destroyed Hidden Leaf Village”>
 
 **[🎬 Watch Video →](https://www.youtube.com/watch?v=37zo86w3RCo)**
 
@@ -67,7 +67,7 @@ Style: hyper-realistic cinematic, IMAX, anamorphic lens, shallow depth of field,
 
 </details>
 
-<img src="https://img.youtube.com/vi/jIsLJpBiucM/maxresdefault.jpg" width="600" alt="Earth Goddess Reshapes the World">
+<img src="https://img.youtube.com/vi/jIsLJpBiucM/hqdefault.jpg" width="600" alt="Earth Goddess Reshapes the World">
 
 **[🎬 Watch Video →](https://www.youtube.com/shorts/jIsLJpBiucM)**
 
@@ -93,7 +93,7 @@ Style: hyper-realistic cinematic, IMAX, anamorphic lens, shallow depth of field,
 
 </details>
 
-<img src="https://img.youtube.com/vi/NLxauKJw6-8/maxresdefault.jpg" width="600" alt="Black Mist Warrior Reforging">
+<img src="https://img.youtube.com/vi/NLxauKJw6-8/hqdefault.jpg" width="600" alt="Black Mist Warrior Reforging">
 
 **[🎬 Watch Video →](https://www.youtube.com/shorts/NLxauKJw6-8)**
 
@@ -182,7 +182,7 @@ Duration: ~8 seconds.
 
 </details>
 
-<img src="https://img.youtube.com/vi/SuMODhB9D1I/maxresdefault.jpg" width="600" alt="Saint Seiya: Hasgard's Golden Bull Cosmo Strike">
+<img src="https://img.youtube.com/vi/SuMODhB9D1I/hqdefault.jpg" width="600" alt="Saint Seiya: Hasgard's Golden Bull Cosmo Strike">
 
 **[🎬 Watch Video →](https://www.youtube.com/shorts/SuMODhB9D1I)**
 
@@ -255,9 +255,55 @@ Duration: ~8 seconds.
 
 </details>
 
-<img src="https://img.youtube.com/vi/wRLZEIoSbvc/maxresdefault.jpg" width="600" alt="Saint Seiya: Hasgard’s Titan Nova — Bull Cosmo Eruption">
+<img src="https://img.youtube.com/vi/wRLZEIoSbvc/hqdefault.jpg" width="600" alt="Saint Seiya: Hasgard’s Titan Nova — Bull Cosmo Eruption">
 
 **[🎬 Watch Video →](https://www.youtube.com/shorts/wRLZEIoSbvc)**
+
+**Model:** Kling
+
+---
+
+### Untitled
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Add description here.
+
+<details>
+<summary>📝 Prompt</summary>
+
+```
+Add prompt here.
+```
+
+</details>
+
+<img src="https://img.youtube.com/vi/saVe4naoAHw/hqdefault.jpg" width="600" alt="Untitled">
+
+**[🎬 Watch Video →](https://www.youtube.com/shorts/saVe4naoAHw)**
+
+**Model:** Seedance 2.0
+
+---
+
+### Untitled
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Add description here.
+
+<details>
+<summary>📝 Prompt</summary>
+
+```
+Add prompt here.
+```
+
+</details>
+
+<img src="https://img.youtube.com/vi/7c2rvrH69Ww/hqdefault.jpg" width="600" alt="Untitled">
+
+**[🎬 Watch Video →](https://www.youtube.com/shorts/7c2rvrH69Ww)**
 
 **Model:** Kling
 
